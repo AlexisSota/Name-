@@ -1,0 +1,14 @@
+{
+  "name": "para-ti",
+  "version": "1.0.0",
+  "private": true,
+  "description": "App romántica con ambiente de cueva oscura",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}

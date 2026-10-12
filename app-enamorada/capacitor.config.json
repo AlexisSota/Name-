@@ -1,0 +1,9 @@
+{
+  "appId": "com.tuapp.parati",
+  "appName": "Para ti",
+  "webDir": "www",
+  "backgroundColor": "#05070d",
+  "android": {
+    "allowMixedContent": false
+  }
+}
